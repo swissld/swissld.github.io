@@ -1,0 +1,1 @@
+{"label":"requiresSubscription","comment":"Indicates if use of the media require a subscription  (either paid or free). Allowed values are <code>true</code> or <code>false</code> (note that an earlier version had 'yes', 'no').","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/requiresSubscription"}

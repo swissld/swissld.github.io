@@ -1,1 +1,0 @@
-{"label":"DrugPrescriptionStatus","comment":"Indicates whether this drug is available by prescription or over-the-counter.","subTypeOf":["https://schema.org/MedicalEnumeration"],"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/DrugPrescriptionStatus"}

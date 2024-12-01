@@ -1,0 +1,1 @@
+{"label":"postalCodeEnd","comment":"Last postal code in the range (included). Needs to be after <a class=\"localLink\" href=\"/postalCodeBegin\">postalCodeBegin</a>.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/postalCodeEnd"}

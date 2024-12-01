@@ -1,4 +1,4 @@
 
-import { generate } from "./schema-org/generator.mjs";
+import { generateAll } from "./schema-org/generator.mjs";
 
-generate("docs/schema-org");
+generateAll("docs/schema-org");

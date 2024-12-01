@@ -1,0 +1,1 @@
+{"label":"eventStatus","comment":"An eventStatus of an event represents its status; particularly useful when an event is cancelled or rescheduled.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/eventStatus"}

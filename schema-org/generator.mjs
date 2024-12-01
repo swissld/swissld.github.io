@@ -3,13 +3,8 @@ import { writeFileSync } from "node:fs";
 import { Parser } from "./parser.mjs";
 import { isNull } from "./util.mjs";
 
-async function generate(destination)
+function generate(types, destination)
 	{
-	let parser = new Parser();
-
-	//let properties = await parser.properties();
-	let types = await parser.types();
-
 	let labels = [];
 
 	for (let id in types)
@@ -26,7 +21,18 @@ async function generate(destination)
 			}
 		}
 
-	writeFileSync(destination + "/types.js", "let types = " + JSON.stringify(labels));
+	writeFileSync(destination + "/all.js", "let all = " + JSON.stringify(labels));
 	}
 
-export { generate };
+async function generateAll(destination)
+	{
+	let parser = new Parser();
+
+	let all = await parser.all();
+
+	generate(all.properties, destination + "/properties");
+	generate(all.types, destination + "/types");
+	generate(all.enumerations, destination + "/enumerations");
+	}
+
+export { generateAll };

@@ -1,0 +1,1 @@
+{"label":"embedUrl","comment":"A URL pointing to a player for a specific video. In general, this is the information in the <code>src</code> element of an <code>embed</code> tag and should not be the same as the content of the <code>loc</code> tag.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/embedUrl"}

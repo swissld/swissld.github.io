@@ -1,0 +1,1 @@
+{"label":"paymentDueDate","comment":"The date that payment is due.","supersedes":["https://schema.org/paymentDue"],"supersededBy":"https://schema.org/paymentDue","partOf":null,"id":"https://schema.org/paymentDueDate"}

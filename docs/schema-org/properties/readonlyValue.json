@@ -1,0 +1,1 @@
+{"label":"readonlyValue","comment":"Whether or not a property is mutable.  Default is false. Specifying this for a property that also has a value makes it act similar to a \"hidden\" input in an HTML form.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/readonlyValue"}

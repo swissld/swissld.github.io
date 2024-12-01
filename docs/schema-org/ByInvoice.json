@@ -1,1 +1,0 @@
-{"label":"ByInvoice","comment":"Payment by invoice, typically after the goods were delivered, equivalent to <code>http://purl.org/goodrelations/v1#ByInvoice</code>.","subTypeOf":null,"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/ByInvoice"}

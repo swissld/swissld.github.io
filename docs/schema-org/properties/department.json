@@ -1,0 +1,1 @@
+{"label":"department","comment":"A relationship between an organization and a department of that organization, also described as an organization (allowing different urls, logos, opening hours). For example: a store with a pharmacy, or a bakery with a cafe.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/department"}

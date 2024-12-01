@@ -1,0 +1,1 @@
+{"label":"riskFactor","comment":"A modifiable or non-modifiable factor that increases the risk of a patient contracting this condition, e.g. age,  coexisting condition.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/riskFactor"}

@@ -1,1 +1,0 @@
-{"label":"MedicalProcedureType","comment":"An enumeration that describes different types of medical procedures.","subTypeOf":["https://schema.org/MedicalEnumeration"],"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/MedicalProcedureType"}

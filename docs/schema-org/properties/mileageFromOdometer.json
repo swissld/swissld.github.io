@@ -1,0 +1,1 @@
+{"label":"mileageFromOdometer","comment":"The total distance travelled by the particular vehicle since its initial production, as read from its odometer.<br/><br/>\n\nTypical unit code(s): KMT for kilometers, SMI for statute miles.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/mileageFromOdometer"}

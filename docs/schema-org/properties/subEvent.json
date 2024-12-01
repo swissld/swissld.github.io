@@ -1,0 +1,1 @@
+{"label":"subEvent","comment":"An Event that is part of this event. For example, a conference event includes many presentations, each of which is a subEvent of the conference.","supersedes":["https://schema.org/subEvents"],"supersededBy":"https://schema.org/subEvents","partOf":null,"id":"https://schema.org/subEvent"}

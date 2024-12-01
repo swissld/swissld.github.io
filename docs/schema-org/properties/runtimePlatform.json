@@ -1,0 +1,1 @@
+{"label":"runtimePlatform","comment":"Runtime platform or script interpreter dependencies (example: Java v1, Python 2.3, .NET Framework 3.0).","supersedes":["https://schema.org/runtime"],"supersededBy":"https://schema.org/runtime","partOf":null,"id":"https://schema.org/runtimePlatform"}

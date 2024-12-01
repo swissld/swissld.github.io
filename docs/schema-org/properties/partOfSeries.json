@@ -1,0 +1,1 @@
+{"label":"partOfSeries","comment":"The series to which this episode or season belongs.","supersedes":["https://schema.org/partOfTVSeries"],"supersededBy":"https://schema.org/partOfTVSeries","partOf":null,"id":"https://schema.org/partOfSeries"}

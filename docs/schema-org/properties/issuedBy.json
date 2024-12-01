@@ -1,0 +1,1 @@
+{"label":"issuedBy","comment":"The organization issuing the item, for example a <a class=\"localLink\" href=\"/Permit\">Permit</a>, <a class=\"localLink\" href=\"/Ticket\">Ticket</a>, or <a class=\"localLink\" href=\"/Certification\">Certification</a>.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/issuedBy"}

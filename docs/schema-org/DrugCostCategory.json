@@ -1,1 +1,0 @@
-{"label":"DrugCostCategory","comment":"Enumerated categories of medical drug costs.","subTypeOf":["https://schema.org/MedicalEnumeration"],"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/DrugCostCategory"}

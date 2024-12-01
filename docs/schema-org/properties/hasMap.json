@@ -1,0 +1,1 @@
+{"label":"hasMap","comment":"A URL to a map of the place.","supersedes":["https://schema.org/maps","https://schema.org/map"],"supersededBy":"https://schema.org/maps, https://schema.org/map","partOf":null,"id":"https://schema.org/hasMap"}

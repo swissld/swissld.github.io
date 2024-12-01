@@ -1,0 +1,1 @@
+{"label":"exerciseCourse","comment":"A sub property of location. The course where this action was taken.","supersedes":["https://schema.org/course"],"supersededBy":"https://schema.org/course","partOf":null,"id":"https://schema.org/exerciseCourse"}

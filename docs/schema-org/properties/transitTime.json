@@ -1,0 +1,1 @@
+{"label":"transitTime","comment":"The typical delay the order has been sent for delivery and the goods reach the final customer. Typical properties: minValue, maxValue, unitCode (d for DAY).","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/transitTime"}

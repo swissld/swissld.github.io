@@ -1,0 +1,1 @@
+{"label":"doseSchedule","comment":"A dosing schedule for the drug for a given population, either observed, recommended, or maximum dose based on the type used.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/doseSchedule"}

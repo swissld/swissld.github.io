@@ -1,0 +1,1 @@
+{"label":"prescriptionStatus","comment":"Indicates the status of drug prescription, e.g. local catalogs classifications or whether the drug is available by prescription or over-the-counter, etc.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/prescriptionStatus"}

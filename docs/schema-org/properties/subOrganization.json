@@ -1,0 +1,1 @@
+{"label":"subOrganization","comment":"A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific 'department' property.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/subOrganization"}

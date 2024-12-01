@@ -1,1 +1,0 @@
-{"label":"MedicalDevicePurpose","comment":"Categories of medical devices, organized by the purpose or intended use of the device.","subTypeOf":["https://schema.org/MedicalEnumeration"],"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/MedicalDevicePurpose"}

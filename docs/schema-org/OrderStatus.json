@@ -1,1 +1,0 @@
-{"label":"OrderStatus","comment":"Enumerated status values for Order.","subTypeOf":["https://schema.org/StatusEnumeration"],"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/OrderStatus"}

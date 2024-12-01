@@ -1,0 +1,7 @@
+@prefix so: <https://schema.org/> .
+
+<#sierre> a so:City .
+
+<#sierre> so:name "Sierre" .
+#<#sierre> so:nasdsdme 3960 .
+<#sierre> so:containedInPlace <#valais> .

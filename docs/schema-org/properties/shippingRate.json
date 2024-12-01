@@ -1,0 +1,1 @@
+{"label":"shippingRate","comment":"The shipping rate is the cost of shipping to the specified destination. Typically, the maxValue and currency values (of the <a class=\"localLink\" href=\"/MonetaryAmount\">MonetaryAmount</a>) are most appropriate.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/shippingRate"}

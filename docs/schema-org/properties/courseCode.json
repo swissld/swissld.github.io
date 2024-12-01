@@ -1,0 +1,1 @@
+{"label":"courseCode","comment":"The identifier for the <a class=\"localLink\" href=\"/Course\">Course</a> used by the course <a class=\"localLink\" href=\"/provider\">provider</a> (e.g. CS101 or 6.001).","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/courseCode"}

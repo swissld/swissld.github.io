@@ -1,0 +1,1 @@
+{"label":"availableOnDevice","comment":"Device required to run the application. Used in cases where a specific make/model is required to run the application.","supersedes":["https://schema.org/device"],"supersededBy":"https://schema.org/device","partOf":null,"id":"https://schema.org/availableOnDevice"}

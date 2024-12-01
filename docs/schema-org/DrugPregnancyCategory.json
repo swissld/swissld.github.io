@@ -1,1 +1,0 @@
-{"label":"DrugPregnancyCategory","comment":"Categories that represent an assessment of the risk of fetal injury due to a drug or pharmaceutical used as directed by the mother during pregnancy.","subTypeOf":["https://schema.org/MedicalEnumeration"],"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/DrugPregnancyCategory"}

@@ -1,1 +1,0 @@
-{"label":"PaymentStatusType","comment":"A specific payment status. For example, PaymentDue, PaymentComplete, etc.","subTypeOf":["https://schema.org/StatusEnumeration"],"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/PaymentStatusType"}

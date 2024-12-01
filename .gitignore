@@ -1,8 +1,11 @@
 
-/csv/
-
 /node_modules/
 
 /sql/
 
 /temp/
+
+/*-lock.*
+
+/all.json
+/n3.json

@@ -1,0 +1,1 @@
+{"label":"paymentMethodId","comment":"An identifier for the method of payment used (e.g. the last 4 digits of the credit card).","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/paymentMethodId"}
