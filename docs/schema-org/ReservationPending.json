@@ -1,0 +1,1 @@
+{"label":"ReservationPending","comment":"The status of a reservation when a request has been sent, but not confirmed.","subTypeOf":null,"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/ReservationPending"}

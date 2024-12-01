@@ -1,0 +1,1 @@
+{"label":"ActionStatusType","comment":"The status of an Action.","subTypeOf":["https://schema.org/StatusEnumeration"],"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/ActionStatusType"}

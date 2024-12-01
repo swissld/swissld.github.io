@@ -9,5 +9,17 @@
 
 <h1>SwissLD</h1>
 
+<script src="schema-org/types.js"></script>
+
+<script>
+
+console.log(types);
+
+fetch("schema-org/" + types[1] + ".json")
+	.then(response => response.json())
+	.then(json => console.log(json));
+
+</script>
+
 </body>
 </html>

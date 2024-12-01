@@ -1,16 +1,13 @@
 
+/*
 import { writeFileSync } from "node:fs";
-import { SchemaOrg } from "./schema-org.mjs";
+import { Parser } from "./schema-org/parser.mjs";
 
-let so = new SchemaOrg();
+let parser = new Parser();
 
-let types = await so.types();
+let properties = await parser.properties();
+let types = await parser.types();
 
-let map = {};
-
-types.forEach(type =>
-	{
-	map[type.id] = type;
-	});
-
-writeFileSync("types.json", JSON.stringify(map, null, 2));
+writeFileSync("properties.json", JSON.stringify(properties, null, 4));
+writeFileSync("types.json", JSON.stringify(types, null, 4));
+*/

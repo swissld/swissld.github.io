@@ -1,0 +1,1 @@
+{"label":"CheckInAdvance","comment":"Payment in advance by sending a check, equivalent to <code>http://purl.org/goodrelations/v1#CheckInAdvance</code>.","subTypeOf":null,"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/CheckInAdvance"}

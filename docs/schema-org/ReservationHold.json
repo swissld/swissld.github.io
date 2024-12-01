@@ -1,0 +1,1 @@
+{"label":"ReservationHold","comment":"The status of a reservation on hold pending an update like credit card number or flight changes.","subTypeOf":null,"subTypes":null,"properties":null,"supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/ReservationHold"}
