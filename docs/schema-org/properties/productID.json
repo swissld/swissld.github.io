@@ -1,1 +1,0 @@
-{"label":"productID","comment":"The product identifier, such as ISBN. For example: <code>meta itemprop=\"productID\" content=\"isbn:123-456-789\"</code>.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/productID"}

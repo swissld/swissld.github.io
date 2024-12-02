@@ -1,1 +1,0 @@
-{"label":"areaServed","comment":"The geographic area where a service or offered item is provided.","supersedes":["https://schema.org/serviceArea"],"supersededBy":"https://schema.org/serviceArea","partOf":null,"id":"https://schema.org/areaServed"}

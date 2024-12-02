@@ -1,1 +1,0 @@
-{"label":"parentOrganization","comment":"The larger organization that this organization is a <a class=\"localLink\" href=\"/subOrganization\">subOrganization</a> of, if any.","supersedes":["https://schema.org/branchOf"],"supersededBy":"https://schema.org/branchOf","partOf":null,"id":"https://schema.org/parentOrganization"}

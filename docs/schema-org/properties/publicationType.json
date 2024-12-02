@@ -1,1 +1,0 @@
-{"label":"publicationType","comment":"The type of the medical article, taken from the US NLM MeSH publication type catalog. See also <a href=\"http://www.nlm.nih.gov/mesh/pubtypes.html\">MeSH documentation</a>.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/publicationType"}

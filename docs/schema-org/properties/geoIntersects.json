@@ -1,1 +1,0 @@
-{"label":"geoIntersects","comment":"Represents spatial relations in which two geometries (or the places they represent) have at least one point in common. As defined in <a href=\"https://en.wikipedia.org/wiki/DE-9IM\">DE-9IM</a>.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/geoIntersects"}

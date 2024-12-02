@@ -1,1 +1,0 @@
-{"label":"caption","comment":"The caption for this object. For downloadable machine formats (closed caption, subtitles etc.) use MediaObject and indicate the <a class=\"localLink\" href=\"/encodingFormat\">encodingFormat</a>.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/caption"}

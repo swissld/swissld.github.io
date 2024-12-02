@@ -1,1 +1,0 @@
-{"label":"hasMenu","comment":"Either the actual menu as a structured representation, as text, or a URL of the menu.","supersedes":["https://schema.org/menu"],"supersededBy":"https://schema.org/menu","partOf":null,"id":"https://schema.org/hasMenu"}

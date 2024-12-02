@@ -1,1 +1,0 @@
-{"label":"actionAccessibilityRequirement","comment":"A set of requirements that must be fulfilled in order to perform an Action. If more than one value is specified, fulfilling one set of requirements will allow the Action to be performed.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/actionAccessibilityRequirement"}

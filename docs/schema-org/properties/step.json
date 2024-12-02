@@ -1,1 +1,0 @@
-{"label":"step","comment":"A single step item (as HowToStep, text, document, video, etc.) or a HowToSection.","supersedes":["https://schema.org/steps"],"supersededBy":"https://schema.org/steps","partOf":null,"id":"https://schema.org/step"}

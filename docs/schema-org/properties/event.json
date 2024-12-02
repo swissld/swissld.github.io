@@ -1,1 +1,0 @@
-{"label":"event","comment":"Upcoming or past event associated with this place, organization, or action.","supersedes":["https://schema.org/events"],"supersededBy":"https://schema.org/events","partOf":null,"id":"https://schema.org/event"}

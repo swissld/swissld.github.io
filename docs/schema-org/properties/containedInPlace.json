@@ -1,1 +1,0 @@
-{"label":"containedInPlace","comment":"The basic containment relation between a place and one that contains it.","supersedes":["https://schema.org/containedIn"],"supersededBy":"https://schema.org/containedIn","partOf":null,"id":"https://schema.org/containedInPlace"}

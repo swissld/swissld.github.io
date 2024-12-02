@@ -1,1 +1,0 @@
-{"label":"referencesOrder","comment":"The Order(s) related to this Invoice. One or more Orders may be combined into a single Invoice.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/referencesOrder"}

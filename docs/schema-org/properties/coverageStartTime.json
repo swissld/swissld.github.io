@@ -1,1 +1,0 @@
-{"label":"coverageStartTime","comment":"The time when the live blog will begin covering the Event. Note that coverage may begin before the Event's start time. The LiveBlogPosting may also be created before coverage begins.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/coverageStartTime"}

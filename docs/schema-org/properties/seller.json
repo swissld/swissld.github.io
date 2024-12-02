@@ -1,1 +1,0 @@
-{"label":"seller","comment":"An entity which offers (sells / leases / lends / loans) the services / goods.  A seller may also be a provider.","supersedes":["https://schema.org/vendor","https://schema.org/merchant"],"supersededBy":"https://schema.org/vendor, https://schema.org/merchant","partOf":null,"id":"https://schema.org/seller"}

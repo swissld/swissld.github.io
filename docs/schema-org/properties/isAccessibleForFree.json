@@ -1,1 +1,0 @@
-{"label":"isAccessibleForFree","comment":"A flag to signal that the item, event, or place is accessible for free.","supersedes":["https://schema.org/free"],"supersededBy":"https://schema.org/free","partOf":null,"id":"https://schema.org/isAccessibleForFree"}

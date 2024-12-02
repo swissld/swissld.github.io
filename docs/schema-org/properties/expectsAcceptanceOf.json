@@ -1,1 +1,0 @@
-{"label":"expectsAcceptanceOf","comment":"An Offer which must be accepted before the user can perform the Action. For example, the user may need to buy a movie before being able to watch it.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/expectsAcceptanceOf"}

@@ -1,1 +1,0 @@
-{"label":"alignmentType","comment":"A category of alignment between the learning resource and the framework node. Recommended values include: 'requires', 'textComplexity', 'readingLevel', and 'educationalSubject'.","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/alignmentType"}

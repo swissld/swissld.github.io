@@ -1,1 +1,0 @@
-{"label":"executableLibraryName","comment":"Library file name, e.g., mscorlib.dll, system.web.dll.","supersedes":["https://schema.org/assembly"],"supersededBy":"https://schema.org/assembly","partOf":null,"id":"https://schema.org/executableLibraryName"}

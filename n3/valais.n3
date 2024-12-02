@@ -1,6 +1,0 @@
-@prefix so: <https://schema.org/> .
-
-<#valais> a so:Place .
-
-<#valais> so:name "Valais" .
-<#valais> so:alternateName "VS" .

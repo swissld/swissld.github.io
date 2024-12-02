@@ -1,1 +1,0 @@
-{"label":"workFeatured","comment":"A work featured in some event, e.g. exhibited in an ExhibitionEvent.\n       Specific subproperties are available for workPerformed (e.g. a play), or a workPresented (a Movie at a ScreeningEvent).","supersedes":null,"supersededBy":null,"partOf":null,"id":"https://schema.org/workFeatured"}

@@ -1,1 +1,0 @@
-{"label":"recipeIngredient","comment":"A single ingredient used in the recipe, e.g. sugar, flour or garlic.","supersedes":["https://schema.org/ingredients"],"supersededBy":"https://schema.org/ingredients","partOf":null,"id":"https://schema.org/recipeIngredient"}
