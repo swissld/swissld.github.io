@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+	<title>SwissLD</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+
+<h1>SwissLD</h1>
+
+<!--
+repository
+repositories
+-->
+
+<script src="schema-org/enumerations/all.js"></script>
+
+<script>
+
+console.log(all);
+
+fetch("schema-org/enumerations/" + all[1] + ".json")
+	.then(response => response.json())
+	.then(json => console.log(json));
+
+</script>
+
+</body>
+</html>
