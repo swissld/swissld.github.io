@@ -1,0 +1,27 @@
+
+/* https://javier.xyz/cohesive-colors?src=BBBB88,CCC68D,EEDD99,EEC290,EEAA88&overlay=b72ddc&intensity=0.15 */
+
+:root
+	{
+	--color-a: #b3a485;
+	--color-b: #c3ae8a;
+	--color-c: #e4c296;
+	--color-d: #e4aa8d;
+	--color-e: #e49585;
+
+	--color-a: #BBBB88;
+	--color-b: #CCC68D;
+	--color-c: #EEDD99;
+	--color-d: #EEC290;
+	--color-e: #EEAA88;
+	}
+
+html
+	{
+	min-height: 100vh;
+	}
+
+body
+	{
+	background-image: linear-gradient(var(--color-a), var(--color-b), var(--color-c), var(--color-d), var(--color-e));
+	}
